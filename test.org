@@ -1,0 +1,3 @@
+* Check if it works to publish org mode files
+
+** Another heading
